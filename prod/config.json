@@ -1,5 +1,9 @@
 {
   "maintenance": {
     "is_under_maintenance": false
+  },
+  "version_check": {
+    "min": "1.0.27",
+    "force_update": true
   }
 }
