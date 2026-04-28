@@ -3,7 +3,7 @@
     "is_under_maintenance": false
   },
   "version_check": {
-    "min": "1.1.0",
+    "min": "1.0.9",
     "force_update": true
   }
 }
